@@ -9,7 +9,7 @@ function prueba(b: string = "prueba de valor de parametro") : void {
   if (c == Color.rojo) {
     alert("Es rojo");
   }
-  b = 6 + 6;
+  b = "hola";
 }
 
 enum AlertLevel{
